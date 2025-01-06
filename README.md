@@ -1,33 +1,3 @@
-Berikut adalah `before_after_installation.txt` dan `README.md` untuk proyek yang berisi kode wxWidgets di atas:
-
-### before_after_installation.txt
-
-```
-# Before Installation
-
-1. Pastikan Anda telah menginstal wxWidgets dan pengaturan lingkungan pengembangan untuk aplikasi wxWidgets.
-2. Unduh dan ekstrak file proyek ke direktori yang diinginkan.
-3. Pastikan Anda memiliki compiler C++ yang mendukung wxWidgets (misalnya, GCC).
-4. Anda harus menginstal wxWidgets di sistem Anda. Ikuti petunjuk di dokumentasi wxWidgets untuk instalasi:
-   - Di Ubuntu, gunakan perintah berikut untuk menginstal wxWidgets:
-     sudo apt-get install libwxgtk3.0-gtk3-dev
-   - Di Windows, unduh wxWidgets dari situs resminya dan ikuti petunjuk untuk menyiapkan proyek wxWidgets di Visual Studio atau MinGW.
-
-# After Installation
-
-1. Setelah Anda menginstal wxWidgets, pastikan bahwa Anda telah mengkonfigurasi lingkungan pengembangan Anda (misalnya, path ke library wxWidgets).
-2. Gunakan perintah berikut untuk membangun proyek:
-   - Di Linux/macOS:
-     g++ -o billing_app billing_app.cpp `wx-config --cxxflags --libs`
-   - Di Windows, Anda dapat menggunakan IDE seperti Code::Blocks atau Visual Studio, dan mengonfigurasi proyek agar menghubungkan dengan wxWidgets.
-3. Setelah proses build selesai, jalankan aplikasi dengan perintah:
-   ./billing_app
-   Atau jalankan melalui IDE Anda.
-```
-
-### README.md
-
-```markdown
 # Billing Warnet Sederhana
 
 Aplikasi ini adalah aplikasi sederhana yang digunakan untuk menghitung biaya berdasarkan waktu yang telah berlalu, dengan tarif yang dapat diatur oleh pengguna. Aplikasi ini menggunakan wxWidgets sebagai toolkit GUI dan C++ untuk implementasinya.
@@ -86,6 +56,3 @@ Jika Anda ingin berkontribusi pada proyek ini, fork repositori ini dan kirim pul
 ## Lisensi
 
 Proyek ini dilisensikan di bawah [MIT License](LICENSE).
-```
-
-Anda dapat menyimpan file `before_after_installation.txt` untuk panduan sebelum dan sesudah instalasi, serta `README.md` untuk dokumentasi proyek di GitHub.
