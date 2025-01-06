@@ -1,0 +1,9 @@
+# Before Installation
+
+1. Pastikan sistem operasi Anda sesuai dengan persyaratan aplikasi ini. Aplikasi ini mendukung **Windows**.
+   
+2. Sebelum menginstal aplikasi, pastikan tidak ada aplikasi lain yang sedang berjalan yang mungkin mengganggu proses instalasi.
+
+3. Pastikan Anda memiliki hak akses administrator pada sistem Anda untuk menginstal perangkat lunak baru.
+
+4. Jika Anda tidak memiliki **wxWidgets** atau dependensi lain yang diperlukan, jangan khawatir! Aplikasi ini sudah dilengkapi dengan semua dependensi yang diperlukan, jadi Anda hanya perlu mengikuti langkah-langkah instalasi yang diberikan.

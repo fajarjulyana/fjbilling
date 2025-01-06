@@ -1,0 +1,31 @@
+# After Installation
+
+1. Setelah mengunduh file **installer** (.exe) yang disediakan, klik dua kali file tersebut untuk memulai proses instalasi.
+
+2. Ikuti langkah-langkah berikut:
+   - **Pilih lokasi instalasi**: Anda dapat memilih direktori instalasi yang diinginkan atau menggunakan lokasi default.
+   - **Klik Install** untuk memulai proses instalasi.
+   - Proses instalasi akan menyalin semua file yang diperlukan ke direktori yang dipilih.
+
+3. Setelah instalasi selesai, Anda akan melihat konfirmasi bahwa aplikasi telah berhasil diinstal. Klik **Finish** untuk menyelesaikan proses.
+
+4. **Jalankan Aplikasi**: Anda dapat membuka aplikasi dengan cara:
+   - Mencari aplikasi di menu **Start** atau
+   - Mengklik shortcut yang dibuat di desktop.
+
+5. **Penggunaan Aplikasi**:
+   - Buka aplikasi dan Anda akan melihat tampilan antarmuka pengguna (GUI).
+   - Masukkan tarif per detik dalam kolom input yang tersedia.
+   - Klik tombol **Mulai** untuk memulai penghitungan waktu.
+   - Klik tombol **Berhenti** untuk menghentikan penghitungan dan melihat biaya yang telah dihitung.
+   - Aplikasi akan menampilkan biaya berdasarkan waktu berjalan.
+
+6. **Menutup Aplikasi**: Untuk menutup aplikasi, Anda akan diberi konfirmasi apakah Anda yakin ingin keluar. Pilih **Yes** untuk menutup atau **No** untuk membatalkan.
+
+7. **Uninstall Aplikasi**: Jika Anda ingin menghapus aplikasi dari sistem:
+   - Pergi ke **Control Panel** > **Programs and Features**.
+   - Temukan aplikasi di daftar program terinstal.
+   - Klik kanan dan pilih **Uninstall** untuk menghapus aplikasi.
+
+8. **Masalah atau Dukungan**: Jika Anda mengalami masalah atau membutuhkan bantuan lebih lanjut, silakan hubungi pengembang atau periksa dokumentasi lebih lanjut di repositori GitHub proyek ini.
+
